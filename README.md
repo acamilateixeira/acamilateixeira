@@ -1,8 +1,10 @@
-### Hi there, nice to meet you! I'm Camila 😁>## 
+### Hi there, nice to meet you! I'm Camila 😁## 
 
-(🎉) I've been working as Developer since 2020.
-(💛) In addition to technical skills, I believe I have good soft
-(🌻) I always try to keep learning 
+##
+(🎉) I've been working as Developer since **2020**.<br>
+(💛) In addition to technical skills, I believe I have good soft skills<br>
+(🌻) I always try to keep **learning** <br>
+##
 
 ### Languagens and tools:
 <div style="display: inline_block">
@@ -21,5 +23,5 @@
 
 Would you like to find me?
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/acamilateixeira_)](https://twitter.com/acamilateixeira_)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/acamilateixeira_)](https://twitter.com/acamilateixeira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acamilateixeira)](https://www.linkedin.com/in/acamilateixeira)
