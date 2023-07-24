@@ -1,4 +1,4 @@
-### Hi there, nice to meet you! I'm Camila 😁 
+### Hi there, nice to see you here! I'm Camila 😁 
 
 ##
 (🎉) I've been working as Developer since **2020**.<br>
