@@ -31,5 +31,3 @@ Let's connect and share our passion for development and tech. Reach out to me on
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/acamilateixeira_)](https://twitter.com/acamilateixeira)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acamilateixeira)](https://www.linkedin.com/in/acamilateixeira)
-
-Let's make coding both serious and super fun! 🤩
