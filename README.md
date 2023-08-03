@@ -1,10 +1,10 @@
 ### Hey there, lovely people! It's awesome to have you here! I'm Camila 😁
 
-🎉 I've been rocking (or not rocking)  it as a Developer since **2020**. Always up for exciting challenges and new opportunities! 💪
+(🎉) I've been rocking (or not rocking)  it as a Developer since **2020**. Always up for exciting challenges and new opportunities! 
 
-💛 Beyond technical skills, I thrive on excellent soft skills that help me connect and collaborate effectively. Let's build amazing things together! 🤝
+(💛) Beyond technical skills, I thrive on excellent soft skills that help me connect and collaborate effectively. Let's build amazing things together! 
 
-🌻 Learning is my superpower! I'm constantly expanding my knowledge and embracing new technologies. Whether it's mastering a programming language like JS or exploring other exciting tools, I'm always up for the adventure! 🚀
+(🌻) Learning is my superpower! I'm constantly expanding my knowledge and embracing new technologies. Whether it's mastering a programming language like JS or exploring other exciting tools, I'm always up for the adventure! 🚀
 
 
 **I'm learning** - C# soon it might be something else
