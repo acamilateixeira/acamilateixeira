@@ -1,33 +1,87 @@
-### Hey there, lovely people! It's awesome to have you here! I'm Camila 😁
+# Camila Teixeira
 
-(🎉) I've been rocking (or not rocking)  it as a Developer since **2020**. Always up for exciting challenges and new opportunities! 
+**Full Stack Developer | PHP/Laravel | Salesforce | Enterprise Integrations**
 
-(💛) Beyond technical skills, I thrive on excellent soft skills that help me connect and collaborate effectively. Let's build amazing things together! 
+Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/acamilateixeira/) · [Repositories](https://github.com/acamilateixeira?tab=repositories)
 
-(🌻) Learning is my superpower! I'm constantly expanding my knowledge and embracing new technologies. Whether it's mastering a programming language like JS or exploring other exciting tools, I'm always up for the adventure! 🚀
+[English](#english) · [Português](#português)
 
+## English
 
-**I'm learning** - C# soon it might be something else
+I develop, integrate, and maintain enterprise applications across financial services, ERP, e-commerce, and industrial environments. My work spans requirements analysis, backend and frontend development, API integrations, testing, deployment, and production support.
 
-### Languages and Tools:
+At **Grupo Mysa**, I contribute to enterprise applications, nationwide e-commerce, PHP/Laravel modernization, and integrations connecting ERP, Salesforce, and internal systems. My background also includes financial systems at **Sicoob Central Cecremge**, Oracle APEX and PL/SQL applications at **EasyProcess / Triadd**, legacy application development at **ZR System**, and Salesforce CRM implementation and user support at **Construtora Você**.
 
-<div style="display: inline_block">
-<img align="center" alt="Logo-Laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg" />
-<img align="center" alt="Logo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="center" alt="Logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Logo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Logo-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Logo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-<img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Logo-SalesForce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
-</div>
+I enjoy working with teams and taking responsibility for delivery, from understanding a business need to implementing and supporting the solution.
 
-### Connect with me!
+### Technical experience
 
-Let's connect and share our passion for development and tech. Reach out to me on:
+| Area | Technologies and practices |
+| --- | --- |
+| Backend & integrations | PHP, Laravel, C#/.NET, Node.js, Python, REST APIs, MVC, SOLID |
+| Frontend | JavaScript, TypeScript, React, Vue, HTML, CSS |
+| Salesforce | Apex, LWC, Aura, Visualforce, Triggers, Flows, SOQL/SOSL |
+| Data & enterprise platforms | SQL Server, MySQL, Oracle Database, SQL, PL/SQL, Oracle APEX, Zeev BPMS |
+| Cloud & delivery | AWS, Microsoft Azure, Docker, Linux, Git, GitLab CI/CD |
+| Tooling & testing | Composer, Artisan, Eloquent ORM, npm, Yarn, Jest, PHPUnit, Figma |
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/acamilateixeira_)](https://twitter.com/acamilateixeira)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acamilateixeira)](https://www.linkedin.com/in/acamilateixeira)
+### Explore my code
+
+These public repositories provide examples of my code. They are separate from the enterprise systems described above; check each repository for its implementation and current state.
+
+| Repository | What to explore |
+| --- | --- |
+| [GEMP](https://github.com/acamilateixeira/GEMP) | Credit-offer queries and simulations with Laravel, Vue, MySQL, and Swagger documentation |
+| [crm](https://github.com/acamilateixeira/crm) | Process-management application with a Laravel API and React/TypeScript frontend |
+| [MPN](https://github.com/acamilateixeira/MPN) | Full stack codebase with a Laravel API and React/TypeScript web application |
+| [CodeChronicles](https://github.com/acamilateixeira/CodeChronicles) | C# / ASP.NET Core MVC project |
+| [Docker-Commands](https://github.com/acamilateixeira/Docker-Commands) | Docker command reference |
+
+### Education
+
+- **Systems Analysis and Development** — Technologist degree, Unibta.
+- **Business Process Management** — Technologist degree, Estácio.
+- **Computer Science** — degree in progress.
+- Additional learning: **Modern Software Engineering — UFMG** and Salesforce Admin / App Builder learning track.
+
+## Português
+
+Desenvolvo, integro e sustento aplicações corporativas nos setores financeiro, ERP, e-commerce e indústria. Atuo em análise de requisitos, desenvolvimento backend e frontend, integrações por APIs, testes, implantação e suporte a produção.
+
+No **Grupo Mysa**, contribuo para aplicações corporativas, e-commerce nacional, modernização de sistemas PHP/Laravel e integrações entre ERP, Salesforce e sistemas internos. Minha experiência também inclui sistemas financeiros no **Sicoob Central Cecremge**, aplicações Oracle APEX e PL/SQL na **EasyProcess / Triadd**, evolução de legado na **ZR System** e implantação e suporte ao Salesforce CRM na **Construtora Você**.
+
+Gosto de trabalhar em equipe e assumir responsabilidade pelas entregas, do entendimento da necessidade de negócio à implementação e sustentação da solução.
+
+### Experiência técnica
+
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Backend e integrações | PHP, Laravel, C#/.NET, Node.js, Python, APIs REST, MVC, SOLID |
+| Frontend | JavaScript, TypeScript, React, Vue, HTML, CSS |
+| Salesforce | Apex, LWC, Aura, Visualforce, Triggers, Flows, SOQL/SOSL |
+| Dados e plataformas corporativas | SQL Server, MySQL, Oracle Database, SQL, PL/SQL, Oracle APEX, Zeev BPMS |
+| Cloud e entregas | AWS, Microsoft Azure, Docker, Linux, Git, GitLab CI/CD |
+| Ferramentas e testes | Composer, Artisan, Eloquent ORM, npm, Yarn, Jest, PHPUnit, Figma |
+
+### Conheça os projetos
+
+Os repositórios públicos apresentam exemplos do meu código, separados dos sistemas corporativos mencionados acima. Consulte cada repositório para conhecer sua implementação e seu estado atual.
+
+| Repositório | O que explorar |
+| --- | --- |
+| [GEMP](https://github.com/acamilateixeira/GEMP) | Consulta e simulação de ofertas de crédito com Laravel, Vue, MySQL e documentação Swagger |
+| [crm](https://github.com/acamilateixeira/crm) | Aplicação de gestão de processos com API Laravel e frontend React/TypeScript |
+| [MPN](https://github.com/acamilateixeira/MPN) | Aplicação full stack com API Laravel e frontend React/TypeScript |
+| [CodeChronicles](https://github.com/acamilateixeira/CodeChronicles) | Projeto em C# / ASP.NET Core MVC |
+| [Docker-Commands](https://github.com/acamilateixeira/Docker-Commands) | Referência de comandos Docker |
+
+### Formação
+
+- **Análise e Desenvolvimento de Sistemas** — Tecnólogo, Unibta.
+- **Processos Gerenciais** — Tecnólogo, Estácio.
+- **Ciência da Computação** — graduação em andamento.
+- Formação complementar: **Engenharia de Software Moderna — UFMG** e trilha Salesforce Admin / App Builder.
+
+---
+
+[Connect on LinkedIn / Vamos conversar no LinkedIn](https://www.linkedin.com/in/acamilateixeira/)
