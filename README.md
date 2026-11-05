@@ -1,87 +1,57 @@
+![Camila Teixeira · Engenharia de Software · Back-end e Full Stack](docs/cover.svg)
+
 # Camila Teixeira
 
-**Full Stack Developer | PHP/Laravel | Salesforce | Enterprise Integrations**
+**Engenheira de software · PHP/Laravel · Desenvolvimento full stack e integrações**
 
-Belo Horizonte, Brazil · [LinkedIn](https://www.linkedin.com/in/acamilateixeira/) · [Repositories](https://github.com/acamilateixeira?tab=repositories)
+Belo Horizonte, Brasil · [Portfólio](https://acamilateixeira.github.io/camilat/) · [LinkedIn](https://www.linkedin.com/in/acamilateixeira/) · [Repositórios](https://github.com/acamilateixeira?tab=repositories)
 
-[English](#english) · [Português](#português)
-
-## English
-
-I develop, integrate, and maintain enterprise applications across financial services, ERP, e-commerce, and industrial environments. My work spans requirements analysis, backend and frontend development, API integrations, testing, deployment, and production support.
-
-At **Grupo Mysa**, I contribute to enterprise applications, nationwide e-commerce, PHP/Laravel modernization, and integrations connecting ERP, Salesforce, and internal systems. My background also includes financial systems at **Sicoob Central Cecremge**, Oracle APEX and PL/SQL applications at **EasyProcess / Triadd**, legacy application development at **ZR System**, and Salesforce CRM implementation and user support at **Construtora Você**.
-
-I enjoy working with teams and taking responsibility for delivery, from understanding a business need to implementing and supporting the solution.
-
-### Technical experience
-
-| Area | Technologies and practices |
-| --- | --- |
-| Backend & integrations | PHP, Laravel, C#/.NET, Node.js, Python, REST APIs, MVC, SOLID |
-| Frontend | JavaScript, TypeScript, React, Vue, HTML, CSS |
-| Salesforce | Apex, LWC, Aura, Visualforce, Triggers, Flows, SOQL/SOSL |
-| Data & enterprise platforms | SQL Server, MySQL, Oracle Database, SQL, PL/SQL, Oracle APEX, Zeev BPMS |
-| Cloud & delivery | AWS, Microsoft Azure, Docker, Linux, Git, GitLab CI/CD |
-| Tooling & testing | Composer, Artisan, Eloquent ORM, npm, Yarn, Jest, PHPUnit, Figma |
-
-### Explore my code
-
-These public repositories provide examples of my code. They are separate from the enterprise systems described above; check each repository for its implementation and current state.
-
-| Repository | What to explore |
-| --- | --- |
-| [GEMP](https://github.com/acamilateixeira/GEMP) | Credit-offer queries and simulations with Laravel, Vue, MySQL, and Swagger documentation |
-| [crm](https://github.com/acamilateixeira/crm) | Process-management application with a Laravel API and React/TypeScript frontend |
-| [MPN](https://github.com/acamilateixeira/MPN) | Full stack codebase with a Laravel API and React/TypeScript web application |
-| [CodeChronicles](https://github.com/acamilateixeira/CodeChronicles) | C# / ASP.NET Core MVC project |
-| [Docker-Commands](https://github.com/acamilateixeira/Docker-Commands) | Docker command reference |
-
-### Education
-
-- **Systems Analysis and Development** — Technologist degree, Unibta.
-- **Business Process Management** — Technologist degree, Estácio.
-- **Computer Science** — degree in progress.
-- Additional learning: **Modern Software Engineering — UFMG** and Salesforce Admin / App Builder learning track.
+**Português** · [English](#english)
 
 ## Português
 
-Desenvolvo, integro e sustento aplicações corporativas nos setores financeiro, ERP, e-commerce e indústria. Atuo em análise de requisitos, desenvolvimento backend e frontend, integrações por APIs, testes, implantação e suporte a produção.
+Desenvolvo, integro e sustento aplicações em contextos de serviços financeiros, ERP, e-commerce e indústria. No **Grupo Mysa**, trabalho com evolução de aplicações PHP/Laravel, e-commerce e integrações entre ERP, Salesforce e sistemas internos. Minha trajetória também inclui sistemas financeiros no Sicoob Central Cecremge, Oracle APEX e PL/SQL na Easy Process / Triadd, evolução de legado na ZR System e Salesforce na Construtora Você.
 
-No **Grupo Mysa**, contribuo para aplicações corporativas, e-commerce nacional, modernização de sistemas PHP/Laravel e integrações entre ERP, Salesforce e sistemas internos. Minha experiência também inclui sistemas financeiros no **Sicoob Central Cecremge**, aplicações Oracle APEX e PL/SQL na **EasyProcess / Triadd**, evolução de legado na **ZR System** e implantação e suporte ao Salesforce CRM na **Construtora Você**.
+### Projetos selecionados
 
-Gosto de trabalhar em equipe e assumir responsabilidade pelas entregas, do entendimento da necessidade de negócio à implementação e sustentação da solução.
-
-### Experiência técnica
-
-| Área | Tecnologias e práticas |
+| Caso | O que construí e por quê |
 | --- | --- |
-| Backend e integrações | PHP, Laravel, C#/.NET, Node.js, Python, APIs REST, MVC, SOLID |
-| Frontend | JavaScript, TypeScript, React, Vue, HTML, CSS |
-| Salesforce | Apex, LWC, Aura, Visualforce, Triggers, Flows, SOQL/SOSL |
-| Dados e plataformas corporativas | SQL Server, MySQL, Oracle Database, SQL, PL/SQL, Oracle APEX, Zeev BPMS |
-| Cloud e entregas | AWS, Microsoft Azure, Docker, Linux, Git, GitLab CI/CD |
-| Ferramentas e testes | Composer, Artisan, Eloquent ORM, npm, Yarn, Jest, PHPUnit, Figma |
+| **TripFlow** | API Laravel de viagens corporativas. Usei locks para proteger o orçamento, idempotência para reenvios e outbox com RabbitMQ para publicar eventos depois do commit. A demo usa um fornecedor simulado. [Código e documentação](https://github.com/acamilateixeira/Tripflow) |
+| **Bora** | App solicitado pela Prefeitura de Conceição do Mato Dentro (MG) para registrar corridas de motoristas contratados, solicitantes, destinos, contatos e elegibilidade por órgão. Usei React Native, Expo e Supabase e separei o pedido da atribuição e o vínculo da disponibilidade. [Código e documentação](https://github.com/acamilateixeira/Bora) |
+| **Livit Live Controller** | Controlador local de TikTok LIVE criado diante do custo de vários overlays e do limite de um Mac com 8 GB de RAM. Separei prévia e saída, usei um motor de jogos compartilhado e criei uma extensão para a fila de música. [Estudo de caso](https://acamilateixeira.github.io/camilat/#livit-live-controller) |
+| **GMPE · em planejamento** | Proposta de gestão para pequenas lojas que conecta venda, baixa de estoque, caixa e contas a receber. A primeira demo foi desenhada para mostrar pagamento parcial e duas pessoas tentando vender a última unidade. |
 
-### Conheça os projetos
+### Como trabalho
 
-Os repositórios públicos apresentam exemplos do meu código, separados dos sistemas corporativos mencionados acima. Consulte cada repositório para conhecer sua implementação e seu estado atual.
+- Começo pela necessidade de negócio e transformo o fluxo em regras que a equipe consegue conferir.
+- Registro o motivo das decisões de arquitetura e deixo claro o que é implementação, simulação ou plano.
+- Verifico as regras que mais afetam a operação, como concorrência, permissões e falhas de integração. Documentação e testes ajudam a revisar e manter o que foi entregue.
 
-| Repositório | O que explorar |
+**Stack:** PHP, Laravel, TypeScript, React, Vue, React Native, Node.js, Python, PostgreSQL, MySQL, Oracle APEX/PLSQL e Salesforce. Experiência com Docker, Linux, GitLab CI/CD e GitHub Actions.
+
+**Formação:** Análise e Desenvolvimento de Sistemas pela Unibta e Processos Gerenciais pela Estácio. Ciência da Computação em andamento. Formação complementar em Engenharia de Software Moderna pela UFMG e trilha Salesforce Admin / App Builder.
+
+## English
+
+I build, integrate, and support applications across financial services, ERP, e-commerce, and industrial environments. At **Grupo Mysa**, I work on PHP/Laravel modernization, e-commerce, and integrations connecting ERP, Salesforce, and internal systems. My background also includes financial systems at Sicoob Central Cecremge, Oracle APEX and PL/SQL at Easy Process / Triadd, legacy application development at ZR System, and Salesforce at Construtora Você.
+
+### Selected projects
+
+| Case study | What I built and why |
 | --- | --- |
-| [GEMP](https://github.com/acamilateixeira/GEMP) | Consulta e simulação de ofertas de crédito com Laravel, Vue, MySQL e documentação Swagger |
-| [crm](https://github.com/acamilateixeira/crm) | Aplicação de gestão de processos com API Laravel e frontend React/TypeScript |
-| [MPN](https://github.com/acamilateixeira/MPN) | Aplicação full stack com API Laravel e frontend React/TypeScript |
-| [CodeChronicles](https://github.com/acamilateixeira/CodeChronicles) | Projeto em C# / ASP.NET Core MVC |
-| [Docker-Commands](https://github.com/acamilateixeira/Docker-Commands) | Referência de comandos Docker |
+| **TripFlow** | A Laravel corporate travel API. I used locks to protect budgets, idempotency to handle retries, and an outbox with RabbitMQ to publish events after commit. The demo uses a simulated supplier. [Code and documentation](https://github.com/acamilateixeira/Tripflow/blob/main/README.en.md) |
+| **Bora** | A mobile app requested by the municipality of Conceição do Mato Dentro, Brazil, to track contracted drivers' rides, requesters, destinations, contacts, and eligibility. I used React Native, Expo, and Supabase and separated requests from assignments and membership from availability. [Code and documentation](https://github.com/acamilateixeira/Bora/blob/main/README.en.md) |
+| **Livit Live Controller** | A local TikTok LIVE controller built around the cost of multiple overlay tools and the constraints of an 8 GB Mac. I separated preview from broadcast output, used a shared game engine, and built a music queue extension. [Case study](https://acamilateixeira.github.io/camilat/#livit-live-controller) |
+| **GMPE · in planning** | A product concept for small shops that connects sales, stock movements, cash, and receivables. The first demo is designed to show a partial payment and two staff members trying to sell the last unit. |
 
-### Formação
+### How I work
 
-- **Análise e Desenvolvimento de Sistemas** — Tecnólogo, Unibta.
-- **Processos Gerenciais** — Tecnólogo, Estácio.
-- **Ciência da Computação** — graduação em andamento.
-- Formação complementar: **Engenharia de Software Moderna — UFMG** e trilha Salesforce Admin / App Builder.
+- I start with the business need and turn the workflow into rules the team can verify.
+- I document why architectural choices were made and identify what is implemented, simulated, or planned.
+- I verify the rules that matter most to the operation, including concurrency, access, and integration failures. Documentation and tests help others review and maintain the work.
 
----
+**Stack:** PHP, Laravel, TypeScript, React, Vue, React Native, Node.js, Python, PostgreSQL, MySQL, Oracle APEX/PLSQL, and Salesforce. Experience with Docker, Linux, GitLab CI/CD, and GitHub Actions.
 
-[Connect on LinkedIn / Vamos conversar no LinkedIn](https://www.linkedin.com/in/acamilateixeira/)
+**Education:** Systems Analysis and Development at Unibta and Business Process Management at Estácio. Computer Science degree in progress. Further study in Modern Software Engineering at UFMG and the Salesforce Admin / App Builder learning track.
+
+[Portfolio](https://acamilateixeira.github.io/camilat/) · [LinkedIn](https://www.linkedin.com/in/acamilateixeira/)
