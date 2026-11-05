@@ -25,6 +25,7 @@ Desenvolvo, integro e sustento aplicações em contextos de serviços financeiro
 
 - Começo pela necessidade de negócio e transformo o fluxo em regras que a equipe consegue conferir.
 - Registro o motivo das decisões de arquitetura e deixo claro o que é implementação, simulação ou plano.
+- Uso IA para acelerar a análise de requisitos, levantar casos de borda e ajudar na implementação e revisão. Confiro as sugestões no diff e nos testes antes de integrar.
 - Verifico as regras que mais afetam a operação, como concorrência, permissões e falhas de integração. Documentação e testes ajudam a revisar e manter o que foi entregue.
 
 **Stack:** PHP, Laravel, TypeScript, React, Vue, React Native, Node.js, Python, PostgreSQL, MySQL, Oracle APEX/PLSQL e Salesforce. Experiência com Docker, Linux, GitLab CI/CD e GitHub Actions.
@@ -48,6 +49,7 @@ I build, integrate, and support applications across financial services, ERP, e-c
 
 - I start with the business need and turn the workflow into rules the team can verify.
 - I document why architectural choices were made and identify what is implemented, simulated, or planned.
+- I use AI to accelerate requirements analysis, surface edge cases, and assist implementation and review. I verify suggestions against the diff and tests before merging.
 - I verify the rules that matter most to the operation, including concurrency, access, and integration failures. Documentation and tests help others review and maintain the work.
 
 **Stack:** PHP, Laravel, TypeScript, React, Vue, React Native, Node.js, Python, PostgreSQL, MySQL, Oracle APEX/PLSQL, and Salesforce. Experience with Docker, Linux, GitLab CI/CD, and GitHub Actions.
