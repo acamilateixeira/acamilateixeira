@@ -2,7 +2,7 @@
 
 # Camila Teixeira
 
-**Engenheira de software · PHP/Laravel · Desenvolvimento full stack e integrações**
+**Engenheira de software · Back-end, integrações e desenvolvimento full stack**
 
 Belo Horizonte, Brasil · [Portfólio](https://acamilateixeira.github.io/camilat/) · [LinkedIn](https://www.linkedin.com/in/acamilateixeira/) · [Repositórios](https://github.com/acamilateixeira?tab=repositories)
 
@@ -45,6 +45,8 @@ Desenvolvo, integro e sustento aplicações em contextos de serviços financeiro
 **Formação:** Análise e Desenvolvimento de Sistemas pela Unibta e Processos Gerenciais pela Estácio. Ciência da Computação em andamento. Formação complementar em Engenharia de Software Moderna pela UFMG e trilha Salesforce Admin / App Builder.
 
 ## English
+
+**Software engineer · Back-end, integrations, and full-stack development**
 
 I build, integrate, and support applications across financial services, ERP, e-commerce, and industrial environments. At **Grupo Mysa**, I work on PHP/Laravel modernization, e-commerce, and integrations connecting ERP, Salesforce, and internal systems. My background also includes financial systems at Sicoob Central Cecremge, Oracle APEX and PL/SQL at Easy Process / Triadd, legacy application development at ZR System, and Salesforce at Construtora Você.
 
